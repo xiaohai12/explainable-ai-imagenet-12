@@ -324,8 +324,9 @@ def train():
     log_dir = os.path.join(
         "logs",
         "fit",
-        ##TODO: change the model name
-        datetime.datetime.now().strftime("%Y%m%d-%H%M%") + 'EfficientNetB0'
+        ##Todo: change the model name
+        "EfficientNetB0",
+        datetime.datetime.now().strftime("%Y%m%d-%H%M")
     )
 
     print("Path log:", log_dir)
