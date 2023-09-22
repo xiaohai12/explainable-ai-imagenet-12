@@ -1,4 +1,5 @@
 # Change log
+- Create standardize mask function and generate transparent image (@xiaohai12, 2023/08/02)
 - Upload code for blur function (@xiaohai12,2023/07/28)
 - Create the git repo (@xiaohai12,2023/07/28)
 - backlog the code from Qiang (@Qiang,26/07/2023)
